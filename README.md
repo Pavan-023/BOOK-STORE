@@ -1,4 +1,5 @@
-📚 MERN-BookStore
+📚 MERN-BookNEST
+
 A Full-Stack Web Application for Managing Books
 
 📖 Overview
